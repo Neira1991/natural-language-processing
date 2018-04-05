@@ -4,8 +4,11 @@ My works for "Natural Language Processing" Coursera course.
 ## Week1
 Done.
 
-##Week2
+## Week2
+TODO
 
-##Week3
+## Week3
+TODO
 
-##Week4
+## Week4
+TODO
