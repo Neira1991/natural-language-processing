@@ -1,5 +1,6 @@
 # natural-language-processing
 My works for "Natural Language Processing" Coursera course.
+I am not really good at Python neither at ML, would be really happy to discuss my results with others :)
 
 ## Week1
 Done.
