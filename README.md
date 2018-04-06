@@ -8,6 +8,7 @@ Used GridSearch CV for optimisation on tfidf model.
 F1-score weighted :0.654025  
 
 ## Week2
+Named entity recognition with LSTMs.
 No tweaks and optimisation.  
 
 Train set quality:  
