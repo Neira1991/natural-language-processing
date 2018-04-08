@@ -24,20 +24,23 @@ precision:  51.64%; recall:  36.42%; F1:  42.72
 ## Week3
 Find duplicate questions by their embedding.
 Google embeddings :
-DCG@   1: 0.320 | Hits@   1: 0.320
-DCG@   5: 0.387 | Hits@   5: 0.448
-DCG@  10: 0.404 | Hits@  10: 0.500
-DCG@ 100: 0.438 | Hits@ 100: 0.669
-DCG@ 500: 0.460 | Hits@ 500: 0.844
-DCG@1000: 0.477 | Hits@1000: 1.000
+DCG@   1: 0.320 | Hits@   1: 0.320  
+DCG@   5: 0.387 | Hits@   5: 0.448  
+DCG@  10: 0.404 | Hits@  10: 0.500  
+DCG@ 100: 0.438 | Hits@ 100: 0.669  
+DCG@ 500: 0.460 | Hits@ 500: 0.844  
+DCG@1000: 0.477 | Hits@1000: 1.000  
 
-Starspace embeddings :
-DCG@   1: 0.516 | Hits@   1: 0.516
-DCG@   5: 0.614 | Hits@   5: 0.699
-DCG@  10: 0.633 | Hits@  10: 0.757
-DCG@ 100: 0.664 | Hits@ 100: 0.906
-DCG@ 500: 0.674 | Hits@ 500: 0.981
-DCG@1000: 0.676 | Hits@1000: 1.000
+Starspace embeddings made with training set :
+DCG@   1: 0.516 | Hits@   1: 0.516  
+DCG@   5: 0.614 | Hits@   5: 0.699  
+DCG@  10: 0.633 | Hits@  10: 0.757  
+DCG@ 100: 0.664 | Hits@ 100: 0.906  
+DCG@ 500: 0.674 | Hits@ 500: 0.981  
+DCG@1000: 0.676 | Hits@1000: 1.000  
 
 ## Week4
+TODO
+
+## Week5
 TODO
