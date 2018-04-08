@@ -22,7 +22,7 @@ Test set quality:
 precision:  51.64%; recall:  36.42%; F1:  42.72
 
 ## Week3
-Find duplicate questions by their embedding.
+Find duplicate questions by their embedding in word2vec.
 Google embeddings :
 DCG@   1: 0.320 | Hits@   1: 0.320  
 DCG@   5: 0.387 | Hits@   5: 0.448  
@@ -40,7 +40,13 @@ DCG@ 500: 0.674 | Hits@ 500: 0.981
 DCG@1000: 0.676 | Hits@1000: 1.000  
 
 ## Week4
-TODO
+Seq2Seq model, encoder-decoder to learn to addition and substraction.
+Model could be used for other tasks.
+
+Dataset size =200000 (2 * originally given size)
+No tweaks.
+
+Epoch: 10, MAE: 8.472910, Invalid numbers: 10155/200,000
 
 ## Week5
 TODO
