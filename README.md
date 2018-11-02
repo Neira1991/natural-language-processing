@@ -7,6 +7,8 @@ Used GridSearch CV for optimisation on tfidf model.
 
 F1-score weighted :0.654025  
 
+__Code is outdated see [nlp-2](https://github.com/cyrilou242/natural-language-processing-2)__
+
 ## Week2
 Named entity recognition with LSTMs.
 No tweaks and optimisation.  
